@@ -1,3 +1,4 @@
-This is a sample README.md file. Please edit according to the instructions.
-
-Thanks :D
+This assignment is divided in three interesting parts:
+1. Part-1 is about estimating the satellite receiver's 3-dimentional position and receiver clock offset based on pseudo distance between satellite and the satellite signal receiver. In this analysis, Non-Linear Estimation method has used to perform analysis via "Least Square Estimation" and "Gradient Decent".
+2. Part-2 is about analysing and predicting the depression level in students. The data is taken from famous data scientist Shodolamu Opeyemi. This study is carried out using "Logistic Regression" model. This model will analyse the study and give binary classification as a result. 
+3. Part-3 is about comparison of two neural network architectures for MNIST handwritten digits. The models that are going to be compared are Multi-Layer Perception (MLP) and Convolutional Neural Network (CNN). There will also be training provided to both models for MNIST dataset.
